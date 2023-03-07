@@ -7,9 +7,9 @@ from urllib.request import urlopen
 
 app = Flask(__name__)
 
-AUTH0_DOMAIN = @TODO_REPLACE_WITH_YOUR_DOMAIN
+AUTH0_DOMAIN = 'dev-5ij3vhbkqqey5tbn.us.auth0.com'
 ALGORITHMS = ['RS256']
-API_AUDIENCE = @TODO_REPLACE_WITH_YOUR_API_AUDIENCE
+API_AUDIENCE = 'image'
 
 
 class AuthError(Exception):
@@ -100,9 +100,9 @@ def verify_decode_jwt(token):
                 'description': 'Unable to parse authentication token.'
             }, 400)
     raise AuthError({
-                'code': 'invalid_header',
+        'code': 'invalid_header',
                 'description': 'Unable to find the appropriate key.'
-            }, 400)
+    }, 400)
 
 
 def requires_auth(f):
@@ -116,6 +116,7 @@ def requires_auth(f):
         return f(payload, *args, **kwargs)
 
     return wrapper
+
 
 @app.route('/headers')
 @requires_auth
