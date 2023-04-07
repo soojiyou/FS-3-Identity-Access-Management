@@ -21,7 +21,9 @@ This project will give you a hands-on chance to practice and demonstrate what yo
 * Securing a REST API
 * Applying software system risk and compliance principles
 
-
+The goal is to implement the server by completing the tasks that are listed, which include setting up Auth0, creating a new single-page web application, creating a new API, enabling RBAC, creating new API permissions, creating new roles, testing the endpoints with Postman.
+ 
+ 
 ## Getting Started:
 
 ### Tech Stack (Dependencies)
