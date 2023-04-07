@@ -114,6 +114,7 @@ User can:
 ### Demo Example
 
 #### backend Postman Test Example (GET drinks-detail)
+
 User can generate JWT token with authorized account login (Auth0) on Frontend web.
 
 <img src="https://user-images.githubusercontent.com/79179847/230534168-aa2761a7-1b81-44ee-bd10-d8ca3f7b4c83.png" alt="Image Description" width="500" >
@@ -121,10 +122,12 @@ User can generate JWT token with authorized account login (Auth0) on Frontend we
 <img src="https://user-images.githubusercontent.com/79179847/230533746-71b526e0-3399-4f70-88a0-6c08cf5f6a68.png" alt="Image Description" width="500" >
 
 Normal User page:
+
 <img src="https://user-images.githubusercontent.com/79179847/230535466-a359b502-17cf-498f-acaf-2cb6979c9034.png" alt="Image Description" width="500" >
 
 
 Authorized manager page example: can create new drink
+
 <img src="https://user-images.githubusercontent.com/79179847/230535186-7e336c17-3b96-4216-8c48-e889535b41be.png" alt="Image Description" width="500" >
 
 
