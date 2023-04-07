@@ -107,13 +107,13 @@ User can do the follwing with authorized permission:
 
 #### Manager
 
-<img src="https://user-images.githubusercontent.com/79179847/230535813-c494fdbb-2a44-44d5-8931-4c91de5062ff.png" alt="Image Description" width="700" >
+<img src="https://user-images.githubusercontent.com/79179847/230535813-c494fdbb-2a44-44d5-8931-4c91de5062ff.png" alt="Image Description" width="600" >
 
 
 
 #### Barista
 
-<img src="https://user-images.githubusercontent.com/79179847/230535876-0c7e2f38-36ea-437f-bc7f-cf476957792c.png" alt="Image Description" width="700" >
+<img src="https://user-images.githubusercontent.com/79179847/230535876-0c7e2f38-36ea-437f-bc7f-cf476957792c.png" alt="Image Description" width="600" >
 
 
 1. search Artist, Venue, Show by name.
