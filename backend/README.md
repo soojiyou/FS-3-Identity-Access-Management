@@ -1,4 +1,4 @@
-# Coffee Shop Backend
+# Full Stack Project 3- Coffee Shop Backend
 
 ## Getting Started
 
