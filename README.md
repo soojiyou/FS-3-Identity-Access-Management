@@ -116,12 +116,6 @@ User can do the follwing with authorized permission:
 <img src="https://user-images.githubusercontent.com/79179847/230535876-0c7e2f38-36ea-437f-bc7f-cf476957792c.png" alt="Image Description" width="600" >
 
 
-1. search Artist, Venue, Show by name.
-
-2. add Artist, Venue, and arrange Show with Artist Id, Venue Id, date.
- 
-3. edit and delete Artist and Venue information. 
-
 ### Demo Example
 
 #### backend Postman Test Example (GET drinks-detail)
