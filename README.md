@@ -103,7 +103,15 @@ The `./frontend` directory contains a complete Ionic frontend to consume the dat
 
 ## Features
 ### User
-User can:
+User can do the follwing with authorized permission:
+
+#### Manager
+![image](https://user-images.githubusercontent.com/79179847/230535813-c494fdbb-2a44-44d5-8931-4c91de5062ff.png)
+
+
+#### Barista
+
+![image](https://user-images.githubusercontent.com/79179847/230535876-0c7e2f38-36ea-437f-bc7f-cf476957792c.png)
 
 1. search Artist, Venue, Show by name.
 
@@ -120,6 +128,9 @@ User can generate JWT token with authorized account login (Auth0) on Frontend we
 <img src="https://user-images.githubusercontent.com/79179847/230534168-aa2761a7-1b81-44ee-bd10-d8ca3f7b4c83.png" alt="Image Description" width="500" >
 
 <img src="https://user-images.githubusercontent.com/79179847/230533746-71b526e0-3399-4f70-88a0-6c08cf5f6a68.png" alt="Image Description" width="500" >
+
+
+#### Frontend Test Example
 
 Normal User page:
 
