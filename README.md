@@ -20,6 +20,12 @@ Install Requirements with the following command:
 ```
 npm install
 ```
+#### Development Setup (Frontend)
+
+Running Frontend in Dev Mode
+```bash
+ionic serve
+```
 
 ### 2. Backend Dependencies
 Our tech stack will include the following:
@@ -34,7 +40,7 @@ Install Requirements with the following command:
 npm install
 ```
 
-#### Development Setup
+#### Development Setup (Backend)
 
 1. **Initialize and activate a virtualenv using:**
 ```
