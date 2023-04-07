@@ -106,12 +106,15 @@ The `./frontend` directory contains a complete Ionic frontend to consume the dat
 User can do the follwing with authorized permission:
 
 #### Manager
-![image](https://user-images.githubusercontent.com/79179847/230535813-c494fdbb-2a44-44d5-8931-4c91de5062ff.png)
+
+<img src="https://user-images.githubusercontent.com/79179847/230535813-c494fdbb-2a44-44d5-8931-4c91de5062ff.png" alt="Image Description" width="700" >
+
 
 
 #### Barista
 
-![image](https://user-images.githubusercontent.com/79179847/230535876-0c7e2f38-36ea-437f-bc7f-cf476957792c.png)
+<img src="https://user-images.githubusercontent.com/79179847/230535876-0c7e2f38-36ea-437f-bc7f-cf476957792c.png" alt="Image Description" width="700" >
+
 
 1. search Artist, Venue, Show by name.
 
