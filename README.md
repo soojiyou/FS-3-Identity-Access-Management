@@ -5,7 +5,21 @@
 
 
 ## Goal
+What will I build?
 
+* Display graphics representing the ratios of ingredients in each drink.
+* Allow public users to view drink names and graphics.
+* Allow the shop baristas to see the recipe information.
+* Allow the shop managers to create new drinks and edit existing drinks.
+
+
+This project will give you a hands-on chance to practice and demonstrate what you've learned in this lesson, such as:
+
+* Implementing authentication and authorization in Flask (Auth0)
+* Designing against key security principals
+* Implementing role-based control design patterns
+* Securing a REST API
+* Applying software system risk and compliance principles
 
 
 ## Getting Started:
